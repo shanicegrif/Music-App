@@ -10,5 +10,5 @@ app.get("/", (req, res) => {
   res.send("Welcome to Music App");
 });
 
-// EXPORT
+
 module.exports = app;
